@@ -1,0 +1,8 @@
+tqdm==4.36.1
+
+tensorflow
+keras
+pillow
+numpy
+jupyterlab
+pydot
